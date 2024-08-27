@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Utkarsharma7
+- 👋 Hi, I’m Utkarsh Sharma
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Java,kotlin and SQL
 - 📫 How to reach me ...
