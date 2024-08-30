@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Utkarsh Sharma
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Java,kotlin and SQL
-- 📫 How to reach me ...
 - 😄 Pronouns: He
 - 
 - Hi there! I'm currently a first year student at BITS Pilani, Goa Campus, pursuing a B.Tech in Computer Science.
