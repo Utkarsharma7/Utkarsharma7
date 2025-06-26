@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi,I am Utkarsh Sharma an undergrad At Bits pilani-Goa.<br>I love creating innovative and utility solutions 
+Hi,I am Utkarsh Sharma an undergrad At Bits pilani-Goa.<br>I love creating innovative and utility solutions
+<br>I am a full stack developer but having more passion for handling server side logic<br>I love to create and explore how complex backend systems work
 
 
 ## 🌐 Socials:
